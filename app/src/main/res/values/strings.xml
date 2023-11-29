@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyComposeApp</string>
+    <string name="view_Detail">Lihat Selengkapnya</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="search_Fish">Cari Ikan</string>
+    <string name="detail_fish">Detail</string>
+    <string name="about">Profile</string>
+    <string name="nama">Raihan Mubarok</string>
+    <string name="domisili">Kota Asal</string>
+    <string name="email">Email</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="Prodi">Program Studi</string>
+    <string name="kampus">Asal Kampus</string>
+    <string name="nama_univ">Universitas Muhammadiyah Bandung</string>
+    <string name="teknik">Teknik Informatika</string>
+    <string name="kota_saya">Cikarang, Bekasi</string>
+    <string name="date">8 November2002</string>
+    <string name="my_email">raihanmubarok811@gmail.com</string>
+    <string name="link">https://www.linkedin.com/in/raihan-mubarok/</string>
+    <string name="linkedIn">LinkedIn</string>
+    <string name="work">Pekerjaan</string>
+    <string name="my_work">Mahasiswa</string>
+</resources>
